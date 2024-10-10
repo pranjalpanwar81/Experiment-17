@@ -25,8 +25,8 @@ A linked list is a fundamental data structure. It mainly allows efficient insert
 ### Code       
 (A) <br> 
 ```
-// NAME - SHLOKA PATEL 
-// PRN - 23070123120 
+// NAME - PRANJAL PANWAR 
+// PRN - 23070123164
 // EXPERIMENT - 17 
 
 // LINKED LIST 
